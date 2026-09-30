@@ -1,0 +1,11 @@
+# requirements — M6_L12_product_app.ipynb
+# Antes de correr el notebook:
+
+# 1) Subir a la carpeta L12_inputs/ al menos una foto de producto,
+#    y que al menos una sea un accesorio (ej. collar, cadena, arete).
+#    Formatos válidos: .jpg .jpeg .png .webp .bmp
+#    Al ejecutar el código se pedirá seleccionar las imágenes que desea guardar en L12_inputs/
+#    También pedirá subir el archivo voice_pubic.zip, para la creación del audio.
+
+# 2) En la Sección 6, poner el nombre exacto de esa foto aquí:
+FOTO_ELEGIDA = 'cadena.jpg'   # <- cambiar esto por el archivo que se desea
